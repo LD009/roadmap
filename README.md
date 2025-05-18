@@ -1,13 +1,13 @@
-# GitHub public roadmap
+# Lộ trình công cộng GitHub
 
-:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
+ :Tia sáng: Xem   [lộ trình sản phẩm công cộng GitHub chính thức](https://github.com/orgs/github/projects/4247)[^1]
 
-Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
+Lộ trình sản phẩm của chúng tôi là nơi bạn có thể tìm hiểu về những tính năng chúng tôi đang làm việc, chúng đang ở giai đoạn nào, và khi nào chúng tôi mong đợi mang chúng đến với bạn. Có bất kỳ câu hỏi hoặc nhận xét nào về các mục trên lộ trình không? Chia sẻ phản hồi của bạn quA [Thảo luận phản hồi công khai](https://github.com/github/feedback/discussions) .   
 
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/orgs/community/discussions/new?category=general).
+Kho lưu trữ lộ trình là để truyền đạt lộ trình của GitHub. Các vấn đề hiện tại chỉ được đọc, và chúng tôi đang khóa các cuộc trò chuyện, khi chúng tôi bắt đầu. Giới hạn tương tác cũng được áp dụng để đảm bảo các vấn đề có nguồn gốc từ GitHub. Chúng tôi đang có kế hoạch lặp lại trên định dạng của chính lộ trình và chúng tôi thấy tiềm năng tham gia nhiều hơn vào các cuộc thảo luận về tương lai của các sản phẩm và tính năng GitHub. Nếu bạn có phản hồi về chính kho lưu trữ lộ trình này, chẳng hạn như cách trình  bày các vấn đề, hãy cho chúng tôi biết thông tin.H.  [Phản hồi chung trong GitHub Phản hồi công cộng thảo luận](https://github.com/orgs/community/discussions/new?category=general).
 
 
-## Guide to the roadmap
+## Hướng dẫn về lộ trình
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
